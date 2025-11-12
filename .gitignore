@@ -1,0 +1,22 @@
+# Build artifacts
+*.patch.bak
+*.o
+*.ko
+build/
+dist/
+
+# Temporary files
+*.tmp
+*.log
+*.swp
+*~
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
